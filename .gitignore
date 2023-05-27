@@ -1,4 +1,4 @@
 #node_modules
-/NODE-REST_API/node_modules
+node_modules
 #environment variabel
-/NODE-REST_API/.env
+.env
